@@ -1,4 +1,4 @@
-package strategypattern;
+package replace_conditional_calculations_with_strategy;
 
 public class IfElseDemo {
     InsuranceStrategy strategy;
